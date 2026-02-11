@@ -52,5 +52,5 @@ Escolha sua plataforma preferida para conversarmos sobre projetos ou segurança:
 ---
 
 <p align="center">
-  Desenvolvido com ❤️ por [Seu Nome]
+  Desenvolvido com ❤️ por GhostKernelSec
 </p>
